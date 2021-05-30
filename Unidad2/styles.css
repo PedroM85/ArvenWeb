@@ -1,0 +1,21 @@
+.clase{
+    width: 95%;
+    display: flex;
+    margin: auto;
+}
+.Cuadro1{
+    width: 23%;
+    margin: 1%;
+    background-color: red;
+    color: yellow;
+    height: 200px;
+    font-size: 30px;
+}
+.Cuadro2{
+    width: 23%;
+    margin: 1%;
+    background-color: black;
+    color: white;
+    height: 200px;
+    font-size: 30px;
+}
